@@ -2,7 +2,7 @@
 
 The U.S. International Trade Commission maintains [the harmonized tariff schedule](http://www.usitc.gov/tata/hts/)—an enormous list of what import tariffs exist on which goods. (These tariffs are established by Congress, basically as a form of protectionism.) This list is made up of incredibly precise categories, such as "Wood sawn or chipped lengthwise, sliced or peeled, whether or not planed, sanded or end-jointed, of a thickness exceeding 6 mm," which is, in turn, broken down into smaller categories (evergreen or deciduous), and nests five levels deeper beneath that.
 
-This data and these categorizations are crucially important for anybody importing goods into the U.S. It's possible to get this as a huge binder, "in PDF or WordPerfect 8 format," or as machine-readable data. However, the machine-readable data [is advertised as being on "Tape"](https://help.cbp.gov/app/answers/detail/a_id/260/~/harmonized-tariff-schedule-(-hts)-tape): "it comes in EBCDIC or ASCII." And it costs "$500 per tape" (which one hopes isn't literally on tape).
+This data and these categorizations are crucially important for anybody importing goods into the U.S. It's possible to get this as a huge binder, "in PDF or WordPerfect 8 format," or as machine-readable data. However, the machine-readable data [is advertised as being on "Tape"](https://help.cbp.gov/app/answers/detail/a_id/260/~/harmonized-tariff-schedule-\(-hts\)-tape): "it comes in EBCDIC or ASCII." And it costs "$500 per tape" (which one hopes isn't literally on tape).
 
 Wow. [From their Word-formatted order form](https://help.cbp.gov/ci/fattach/get/55822/0/session/L2F2LzEvdGltZS8xMzg5OTc1NTIzL3NpZC85eE9Wb0NLbA==/filename/HTS+Tape+Order+form+doc.doc):
 
