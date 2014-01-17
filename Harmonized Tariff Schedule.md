@@ -4,7 +4,7 @@ The U.S. International Trade Commission maintains [the harmonized tariff schedul
 
 This data and these categorizations are crucially important for anybody importing goods into the U.S. It's possible to get this as a huge binder, "in PDF or WordPerfect 8 format," or as machine-readable data. However, the machine-readable data [is advertised as being on "Tape"](https://help.cbp.gov/app/answers/detail/a_id/260/~/harmonized-tariff-schedule-\(-hts\)-tape): "it comes in EBCDIC or ASCII." And it costs "$500 per tape" (which one hopes isn't literally on tape).
 
-Wow. [From their Word-formatted order form](https://help.cbp.gov/ci/fattach/get/55822/0/session/L2F2LzEvdGltZS8xMzg5OTc1NTIzL3NpZC85eE9Wb0NLbA==/filename/HTS+Tape+Order+form+doc.doc):
+Oh, wait. It is. [From their Word-formatted order form](https://help.cbp.gov/ci/fattach/get/55822/0/session/L2F2LzEvdGltZS8xMzg5OTc1NTIzL3NpZC85eE9Wb0NLbA==/filename/HTS+Tape+Order+form+doc.doc):
 
 > 1. _____ASCII CD with fixed length, each line is delimited with a Carriage Return Line Feed (CRFL)
 >
