@@ -15,7 +15,7 @@ This is a quick effort to list common state-level agencies, and the especially i
 
 * councils, including geodata of their boundaries
 
-## Department of General Services
+## General Services
 
 * forms
 * policies
@@ -27,12 +27,20 @@ This is a quick effort to list common state-level agencies, and the especially i
 
 * licenses (specialty, practice, address, convictions, claims, etc.)
 
-## Department of Taxation
+## Taxation
 
 aka "Department of Revenue"
 
 * forms
 
-## Division of Unclaimed Property
+## Unclaimed Property
 
 * unclaimed property (probably API-based and single-query-responsive, for security reasons)
+
+## Social Services
+
+* food banks
+* homeless shelters
+* mental health resources
+* eldercare services
+* daycare facilities
