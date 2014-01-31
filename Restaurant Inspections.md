@@ -15,3 +15,8 @@ State and municipal health departments inspect restaurants (as well as other foo
 
 * By exporting [LIVES](http://www.yelp.com/healthscores)-formatted data, Yelp could ingest and display this data
 * Google may be amenable to incorporating this into their Google Place data, alongside reviews
+
+## Existing organizations
+
+* [Code for America](http://foodinspectiondata.us/)
+* [HDScores](http://hdscores.com/)
