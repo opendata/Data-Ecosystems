@@ -22,6 +22,10 @@ In many (all?) states, this is regulated at the state level, rather than by loca
 * A website to look up the closest place to hunt whitetail deer on the first weekend in December
 * Purchase of a hunting/fishing license or a permit for hunting beyond the bag limit (e.g., "Bonus Deer Permit")
 
+## Existing organizations
+
+* [Hunters Database](http://www.huntersdb.com/)
+
 ## Notes
 
 * The geographic boundaries of regions defined in hunting statutes do not necessarily adhere to municipal boundaries
