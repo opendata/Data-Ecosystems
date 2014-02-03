@@ -44,3 +44,7 @@ aka "Department of Revenue"
 * mental health resources
 * eldercare services
 * daycare facilities
+
+## Attorney General
+
+* official opinions published by the AG
