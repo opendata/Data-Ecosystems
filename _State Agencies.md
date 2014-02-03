@@ -57,4 +57,12 @@ aka "Department of Revenue"
 
 * group homes
 * licensed mental health providers
-* 
+
+## Education
+
+* school "report cards" (standardized testing results, graduation rate, demographics, etc.)
+* all schools (name, address, phone, principal, grades, division)
+
+## Enviromental Quality
+
+* permits (applications and granted)
