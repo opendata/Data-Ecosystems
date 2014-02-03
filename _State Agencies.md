@@ -48,3 +48,13 @@ aka "Department of Revenue"
 ## Attorney General
 
 * official opinions published by the AG
+
+## Agriculture
+
+* inspections of regulated private facilities (grocery stores, dairies, etc.)
+ 
+## Behavioral Health
+
+* group homes
+* licensed mental health providers
+* 
