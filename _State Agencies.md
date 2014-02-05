@@ -66,3 +66,11 @@ aka "Department of Revenue"
 ## Enviromental Quality
 
 * permits (applications and granted)
+
+## Conservation
+
+* conservation easements
+* land enrolled in a land bank
+* dams, including inspection data
+* tracked species data (e.g., native vs. invasive)
+
