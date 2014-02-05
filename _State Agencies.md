@@ -74,9 +74,7 @@ This is a quick effort to list common state-level agencies, and the especially i
 * SNAP participation, by locality
 * EBT participation, by locality
 
-## Taxation
-
-aka "Department of Revenue"
+## Taxation / Revenue
 
 * forms
 
