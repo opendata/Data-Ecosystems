@@ -44,6 +44,8 @@ aka "Department of Revenue"
 * mental health resources
 * eldercare services
 * daycare facilities
+* SNAP participation, by locality
+* EBT participation, by locality
 
 ## Attorney General
 
@@ -81,4 +83,3 @@ aka "Department of Revenue"
 ## Lottery
 
 * winning lottery numbers
-
