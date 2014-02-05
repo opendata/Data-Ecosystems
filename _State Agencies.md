@@ -74,3 +74,6 @@ aka "Department of Revenue"
 * dams, including inspection data
 * tracked species data (e.g., native vs. invasive)
 
+## Parks and Recreation
+
+* parks (location, amenities, hours, geodata)
