@@ -1,6 +1,6 @@
 # Valuable Data, Per State Agency
 
-This is a quick effort to list common state-level agencies, and the especially interesting-looking data that they often hold that could be made more valuable if rendered as machine-readable data (whether a bulk download or an API). These may be expanded into their own proposed data ecosystems later.
+This is an effort to list common state-level agencies, and the especially interesting-looking data that they often hold that could be made more valuable if rendered as machine-readable data (whether as a bulk download or an API). These may be expanded into their own proposed data ecosystems later.
 
 ## Executive
 
