@@ -9,11 +9,40 @@ This is a quick effort to list common state-level agencies, and the especially i
 * the [bluebook](http://wikis.ala.org/godort/index.php/State_Blue_Books)
 * board seats etc. that are open for applications
 
+## Agriculture
+
+* inspections of regulated private facilities (grocery stores, dairies, etc.)
+
+## Attorney General
+
+* official opinions published by the AG
+ 
+## Behavioral Health
+
+* group homes
+* licensed mental health providers
+
+## Conservation
+
+* conservation easements
+* land enrolled in a land bank
+* dams, including inspection data
+* tracked species data (e.g., native vs. invasive)
+
 ## Council of Governments
 
 (aka "planning districts," aka "regional councils")
 
 * councils, including geodata of their boundaries
+
+## Education
+
+* school "report cards" (standardized testing results, graduation rate, demographics, etc.)
+* all schools (name, address, phone, principal, grades, division)
+
+## Enviromental Quality
+
+* permits (applications and granted)
 
 ## General Services
 
@@ -23,19 +52,17 @@ This is a quick effort to list common state-level agencies, and the especially i
 * surplus real estate and property
 * fleet vehicles owned
 
-## Board of Medicine
+## Lottery
+
+* winning lottery numbers
+
+## Medical Professions
 
 * licenses (specialty, practice, address, convictions, claims, etc.)
 
-## Taxation
+## Parks and Recreation
 
-aka "Department of Revenue"
-
-* forms
-
-## Unclaimed Property
-
-* unclaimed property (probably API-based and single-query-responsive, for security reasons)
+* parks (location, amenities, hours, geodata)
 
 ## Social Services
 
@@ -47,42 +74,11 @@ aka "Department of Revenue"
 * SNAP participation, by locality
 * EBT participation, by locality
 
-## Attorney General
+## Taxation
 
-* official opinions published by the AG
+aka "Department of Revenue"
 
-## Agriculture
-
-* inspections of regulated private facilities (grocery stores, dairies, etc.)
- 
-## Behavioral Health
-
-* group homes
-* licensed mental health providers
-
-## Education
-
-* school "report cards" (standardized testing results, graduation rate, demographics, etc.)
-* all schools (name, address, phone, principal, grades, division)
-
-## Enviromental Quality
-
-* permits (applications and granted)
-
-## Conservation
-
-* conservation easements
-* land enrolled in a land bank
-* dams, including inspection data
-* tracked species data (e.g., native vs. invasive)
-
-## Parks and Recreation
-
-* parks (location, amenities, hours, geodata)
-
-## Lottery
-
-* winning lottery numbers
+* forms
 
 ## Transportation
 
@@ -92,3 +88,6 @@ aka "Department of Revenue"
 * live road conditions
 * construction projects
 
+## Treasury
+
+* unclaimed property (probably API-based and single-query-responsive, for security reasons)
