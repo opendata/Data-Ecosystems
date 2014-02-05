@@ -77,3 +77,8 @@ aka "Department of Revenue"
 ## Parks and Recreation
 
 * parks (location, amenities, hours, geodata)
+
+## Lottery
+
+* winning lottery numbers
+
