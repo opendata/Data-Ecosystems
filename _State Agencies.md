@@ -52,6 +52,10 @@ This is an effort to list common state-level agencies, and the especially intere
 * surplus real estate and property
 * fleet vehicles owned
 
+## Law Enforcement
+
+* incidents of crime
+
 ## Lottery
 
 * winning lottery numbers
@@ -85,6 +89,7 @@ This is an effort to list common state-level agencies, and the especially intere
 * average daily traffic volumes
 * live road conditions
 * construction projects
+* realtime snowplow geolocation
 
 ## Treasury
 
