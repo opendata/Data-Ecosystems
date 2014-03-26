@@ -17,4 +17,5 @@ Many (all?) municipalities possess and provide GIS data about that municipality,
 * collecting a single type of data that crosses municipal boundaries
   * show every 2 acre parcel zoned "commercial," fronting a state highway, assessed at less than $100,000, that's within 20 miles of a given city
   * map the route of a buried water pipe across six counties
-  
+* create an open geocoder, e.g. [OpenAddresses](https://github.com/openaddresses/openaddresses/)
+* 
