@@ -23,4 +23,4 @@ State and municipal health departments inspect restaurants (as well as other foo
 
 ## Notes
 
-* @daguar suggests reading [Daniel E. Ho's “Fudging the Nudge: Information Disclosure and Restaurant Grading,”](http://www.yalelawjournal.org/article/fudging-the-nudge-information-disclosure-and-restaurant-grading), which is about the poor efficacy of restaurant grading.
+* See [Daniel E. Ho's “Fudging the Nudge: Information Disclosure and Restaurant Grading,”](http://www.yalelawjournal.org/article/fudging-the-nudge-information-disclosure-and-restaurant-grading), which is about the poor efficacy of restaurant grading.
