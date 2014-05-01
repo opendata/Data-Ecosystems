@@ -21,7 +21,9 @@ This is state-level data. The relevant agency varies from state to state. Many (
 * Lead generation
 * Information about attorneys, since they're listed as registered agents
 * Knowing location of businesses (Google, Yelp, Foursquare, etc., etc.)
+* Track down the owners of otherwise-anonymous businesses (for journalists, citizens, etc.)
 
 ## Related Efforts
 
 * [OpenCorporates](https://opencorporates.com/), a UK ODI-affiliated organization.
+* [Crump](https://github.com/openva/crump), a Virginia-specific effort.
