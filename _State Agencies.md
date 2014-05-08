@@ -58,6 +58,7 @@ This is an effort to list common state-level agencies, and the especially intere
 * deaths
 * marriages
 * restaurant inspections
+* cattle brand registry
 
 ## Law Enforcement
 
