@@ -16,7 +16,7 @@ This is an effort to list common state-level agencies, and the especially intere
 ## Attorney General
 
 * official opinions published by the AG
- 
+
 ## Behavioral Health
 
 * group homes
@@ -51,6 +51,13 @@ This is an effort to list common state-level agencies, and the especially intere
 * real estate holdings
 * surplus real estate and property
 * fleet vehicles owned
+
+## Health
+
+* births
+* deaths
+* marriages
+* restaurant inspections
 
 ## Law Enforcement
 
