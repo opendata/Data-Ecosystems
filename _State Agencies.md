@@ -2,6 +2,11 @@
 
 This is an effort to list common state-level agencies, and the especially interesting-looking data that they often hold that could be made more valuable if rendered as machine-readable data (whether as a bulk download or an API). These may be expanded into their own proposed data ecosystems later.
 
+## All Agencies
+
+* every FOIA request that’s received
+* every response to every FOIA request
+
 ## Executive
 
 * every agency and that agency's website URL
